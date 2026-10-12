@@ -1,18 +1,21 @@
 # Wavever Tap
 
-## How do I install these formulae?
+Official Homebrew Tap for [Clipth (剪迹)](https://clipth.app) and tools by [Wavever](https://github.com/wavever).
 
-`brew install wavever/tap/<formula>`
+## Installation
 
-Or `brew tap wavever/tap` and then `brew install <formula>`.
+```bash
+brew install wavever/tap/clipth
+```
 
-Or, in a `brew bundle` `Brewfile`:
+Or tap first:
 
-```ruby
-tap "wavever/tap"
-brew "<formula>"
+```bash
+brew tap wavever/tap
+brew install --cask clipth
 ```
 
 ## Documentation
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+- Official Website: [clipth.app](https://clipth.app)
+- GitHub Repository: [wavever/Clipth](https://github.com/wavever/Clipth)
