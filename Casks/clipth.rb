@@ -5,7 +5,7 @@ cask "clipth" do
   url "https://clipth.app/releases/Clipth-#{version}.dmg"
   name "Clipth"
   name "剪迹"
-  desc "Native macOS clipboard manager"
+  desc "Clipboard manager"
   homepage "https://clipth.app/"
 
   livecheck do
