@@ -1,6 +1,6 @@
 cask "clipth" do
-  version "1.0.4"
-  sha256 "955ae839fe8e5b775e4ae01b45bbdb81a0a9eb62963c7c5b5be6ed024a7ba72f"
+  version "1.0.6"
+  sha256 "5943d0184fd2cd1fead174315ba05bd793ce73d4aa6f82444118297aaf0167f0"
 
   url "https://clipth.app/releases/Clipth-#{version}.dmg"
   name "Clipth"
